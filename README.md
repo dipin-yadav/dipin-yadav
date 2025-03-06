@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dipin-yadav
-- 👀 I’m a PHP Developer with near 3 years of experience in Logistics and E-commerce domain.
-- 🌱 I’m currently learning Full Stack Web Development to boost my carrier.
-- 💞️ I’m looking to collaborate on tech like PHP and Javascript.
+- 👀 I’m a Software Developer with 3+ years of experience in Logistics, E-commerce and Ed-tech domain.
+- 🌱 I’m currently learning Full Stack Web Development to boost my career.
+- 💞️ I’m looking to collaborate on tech like PHP, Django and Javascript.
 - 📫 Email me on dipin.yadav.18@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
